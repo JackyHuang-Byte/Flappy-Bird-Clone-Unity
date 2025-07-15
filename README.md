@@ -14,6 +14,7 @@ This project was built to practice core Unity features and strengthen my underst
 - Multi-scene transitions between start, game, and settings screens
 - Settings menu with working volume sliders, resolution options, and mute toggle
 - Animated bird movement and layered background with particle system (cloud particles)
+- Features sound effects and background music that gradually speeds up with the gameplay
 
 ---
 
