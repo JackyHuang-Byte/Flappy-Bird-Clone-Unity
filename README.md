@@ -28,10 +28,10 @@ This project was built to practice core Unity features and strengthen my underst
 
 ## ▶️ How to Run
 
-- Open in Unity 2022.3 or newer
-- Load the `Title Screen` from the `Scenes` folder
-- Enter Play Mode and click the `Play` button
-- Press space or right-click to start flying
+1. Open in Unity 2022.3 or newer
+2. Load the `Title Screen` from the `Scenes` folder
+3. Enter Play Mode and click the `Play` button
+4. Press space or right-click to start flying
 
 ---
 
